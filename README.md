@@ -1,6 +1,6 @@
 # ECE9023
 
-# This course will introduce to the students the theoretical and implementation aspects of adaptive and Kalman filters. Students will gain a deeper understanding of random signals and the analysis of linear systems in a stochastic framework. Students will understand the theory behind various adaptive Finite Impulse Response (FIR) filtering techniques such as the Least Mean Square (LMS), Recursive Least Squares (RLS), and Affine Projection Algorithm (APA). In addition, students will grasp the practical aspects of adaptive and Kalman filters through implementation and simulation studies.
+This course will introduce to the students the theoretical and implementation aspects of adaptive and Kalman filters. Students will gain a deeper understanding of random signals and the analysis of linear systems in a stochastic framework. Students will understand the theory behind various adaptive Finite Impulse Response (FIR) filtering techniques such as the Least Mean Square (LMS), Recursive Least Squares (RLS), and Affine Projection Algorithm (APA). In addition, students will grasp the practical aspects of adaptive and Kalman filters through implementation and simulation studies.
 
 - Random signals and stochastic processes
 - Linear optimum filtering theory
